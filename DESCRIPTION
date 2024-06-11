@@ -1,7 +1,7 @@
 Package: YatchewTest
 Title: Yatchew (1997), De Chaisemartin & D'Haultfoeuille (2024)
         Linearity Test
-Version: 1.0.2
+Version: 1.1.0
 Authors@R: 
     c(person("Diego", "Ciccia", role = c("aut", "cre"), email = "diego.ciccia@sciencespo.fr"),
 	person("Felix", "Knau", role = "aut", email = "felix.knau@sciencespo.fr"),
@@ -23,6 +23,6 @@ RoxygenNote: 7.2.3
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2024-04-26 10:15:00 UTC; 39380
+Packaged: 2024-06-11 11:22:56 UTC; 39380
 Repository: CRAN
-Date/Publication: 2024-04-26 10:30:03 UTC
+Date/Publication: 2024-06-11 11:50:06 UTC
